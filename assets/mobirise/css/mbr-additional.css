@@ -1183,6 +1183,28 @@ a {
 .cid-sGfdtGh6Wi .mbr-section-title {
   color: #fafafa;
 }
+.cid-sGmFiyGWbS {
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  background-color: #353535;
+}
+.cid-sGmFiyGWbS .video-wrapper iframe {
+  width: 100%;
+}
+.cid-sGmFiyGWbS .mbr-section-title,
+.cid-sGmFiyGWbS .mbr-section-subtitle,
+.cid-sGmFiyGWbS .mbr-text {
+  text-align: center;
+}
+.cid-sGmFiyGWbS .mbr-section-title {
+  color: #fafafa;
+}
+.cid-sGmFiyGWbS .mbr-section-subtitle {
+  color: #fafafa;
+}
+.cid-sGmFiyGWbS .mbr-text {
+  color: #bbbbbb;
+}
 .cid-sGfdRhNFkQ {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1365,27 +1387,6 @@ a {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #bbbbbb;
-}
-.cid-sGfiYWSxHX .bg-facebook {
-  background: #1778f2;
-  color: #ffffff;
-}
-.cid-sGfiYWSxHX .bg-facebook:hover {
-  background: #0b60cb;
-}
-.cid-sGfiYWSxHX .bg-twitter {
-  background: #1da1f2;
-  color: #ffffff;
-}
-.cid-sGfiYWSxHX .bg-twitter:hover {
-  background: #0c85d0;
-}
-.cid-sGfiYWSxHX .bg-instagram {
-  background: #f00075;
-  color: #ffffff;
-}
-.cid-sGfiYWSxHX .bg-instagram:hover {
-  background: #bd005c;
 }
 .cid-sGfiYWSxHX .bg-youtube {
   background: #ff0000;
