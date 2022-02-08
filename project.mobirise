@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ricardo Manufacture",
-    "currentPage": "galeriagrawery.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -57,7 +57,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/ricardo-manufacture-logo-favicon-128x128.png",
-    "mbrsiteDomain": "g9qlzqoeqq",
+    "mbrsiteDomain": "ywafwrogee",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
